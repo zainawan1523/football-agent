@@ -4,11 +4,6 @@ An AI-powered football assistant that answers questions about **today's matches,
 
 ### 🔴 Live Demo: [zain-football-agent.streamlit.app](https://zain-football-agent.streamlit.app/)
 
-<!-- Screenshot: apni website ka screenshot "screenshot.png" naam se repo mein upload karo -->
-![Football Agent screenshot](screenshot.png)
-
----
-
 ## ✨ Features
 
 - 💬 **Natural chat** — ask in Roman Urdu or English, just like talking to a friend
